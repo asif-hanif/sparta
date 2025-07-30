@@ -13,7 +13,7 @@
 
 <hr />
 
-| ![main figure](/media/sparta_miccai_unsure.png)|
+| ![main figure](/media/sparta_miccai2025_unsure.png)|
 |:--| 
 | <p align="justify">**Overview of SPARTA** SPARTA transforms the input image into the frequency domain, where it applies learnable multiplicative noise to perturb the spectrum before reconstructing the image via inverse-transform. On the text side, it introduces learnable context within the token embedding space and prepends it to the actual text prompt. Learnable parameters are optimized within a competitive optimization framework to enhance cross-prompt transferability. </p> |
 
