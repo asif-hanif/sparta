@@ -32,7 +32,7 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 <hr />
 </br>
 
-[main figure](/media/sparta_alg.png)
+![main figure](/media/sparta_alg.png)
 
 </br>
 <hr />
@@ -45,11 +45,44 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 </br>
 </br>
 
+<a name="results"/>
+
 ## Results :microscope:
 
-[main figure](/media/results_1.png)
+![main figure](/media/results_1.png)
 
-[main figure](/media/results_2.png)
+![main figure](/media/results_2.png)
+
+
+</br>
+</br>
+
+<a name="citation"/>
+
+## Citation :star:
+If you find our work or this repository helpful, please consider giving a star :star: and citation.
+```bibtex
+@inproceedings{hanif2025sparta,
+  title={SPARTA: Spectral Prompt Agnostic Adversarial Attack on Medical Vision-Language Models},
+  author={Hanif, Asif and Zaheer, Zaigham and Khan, Salman and Khan, Fahad Shahbaz and Anwer, Rao},
+  booktitle={International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging},
+  pages={69--80},
+  year={2025},
+  organization={Springer}
+}
+```
+
+</br>
+</br>
+
+<a name="contact"/>
+
+## Contact :mailbox:
+Should you have any questions, please create an issue on this repository or contact us at **asif.hanif@mbzuai.ac.ae**
+
+</br>
+</br>
+
 <!---
 </br>
 </br>
