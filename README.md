@@ -51,6 +51,8 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 
 <img src="/media/results_1.png" width="600">
 
+</br>
+
 <img src="/media/results_2.png" width="600">
 
 
