@@ -6,7 +6,7 @@
 
 
 [comment]: [![page](https://img.shields.io/badge/Project-Page-F9D371)](https://asif-hanif.github.io/sparta/)
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://openreview.net/forum?id=AZQrFsNe7m&referrer=%5Bthe%20profile%20of%20Salman%20Khan%5D(%2Fprofile%3Fid%3D~Salman_Khan4))
 
 
 
@@ -29,12 +29,28 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 > <b>TLDR:</b> ..
 
 </br>
+<hr />
+</br>
+
+[main figure](/media/sparta_alg.png)
+
+</br>
+<hr />
 </br>
 
 ## Updates :rocket:
 - **July 17, 2025** : Accepted in [MICCAI 2025 - UNSURE](https://unsuremiccai.github.io/) &nbsp;&nbsp; :confetti_ball: :tada:
 - **July 17, 2025** : -
 
+
+</br>
+</br>
+
+## Results :microscope:
+
+[main figure](/media/results_1.png)
+
+[main figure](/media/results_2.png)
 <!---
 </br>
 </br>
