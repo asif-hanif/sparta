@@ -49,9 +49,9 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 
 ## Results :microscope:
 
-<img src="/media/results_1.png" width="800">
+<img src="/media/results_1.png" width="600">
 
-<img src="/media/results_2.png" width="800">
+<img src="/media/results_2.png" width="600">
 
 
 </br>
