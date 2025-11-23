@@ -26,7 +26,7 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 <br><br>
 </i></p>
 
-> <b>TLDR:</b> ..
+<!-- > <b>TLDR:</b> .. -->
 
 </br>
 <hr />
