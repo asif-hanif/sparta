@@ -40,7 +40,6 @@ Medical Vision-Language Models (Med-VLMs) are gaining popularity in different me
 
 ## Updates :rocket:
 - **July 17, 2025** : Accepted in [MICCAI 2025 - UNSURE](https://unsuremiccai.github.io/) &nbsp;&nbsp; :confetti_ball: :tada:
-- **July 17, 2025** : -
 
 
 </br>
